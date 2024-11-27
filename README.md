@@ -1,6 +1,6 @@
 # Kanban Workflow avec ZenHub
 
-Bienvenue dans notre projet utilisant un workflow Kanban avec ZenHub pour gérer efficacement nos tâches et assurer un suivi clair de notre progression.
+Bienvenue dans mon projet utilisant un workflow Kanban avec ZenHub pour gérer efficacement nos tâches et assurer un suivi clair de notre progression.
 
 ## 🛠️ Structure du Workflow
 
